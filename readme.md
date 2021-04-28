@@ -5,3 +5,5 @@
 5
 6
 7
+8 git checkout -b rama-heroes
+9 git checkout master
