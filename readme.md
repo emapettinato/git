@@ -9,3 +9,4 @@
 9. git checkout master
 10. git push
 11 . git commit -am agregado
+12 agregado luego de clonar del repositorio
